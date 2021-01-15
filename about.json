@@ -1,0 +1,27 @@
+{
+  "name": "cybertec",
+  "component": false,
+  "license_url": "https://github.com/freedumbs00/TEC-Forum-theme/blob/main/LICENSE",
+  "about_url": "https://meta.discourse.org/t/cybertec-tectheme/freedumbs00",
+  "authors": "https://github.com/freedumbs00",
+  "theme_version": "0.0.3",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "cybertec": {
+      "primary": "ffffff",
+      "secondary": "000000",
+      "tertiary": "00d0c1",
+      "quaternary": "ff19df",
+      "header_background": "262c4a",
+      "header_primary": "ffffff",
+      "highlight": "fdee06",
+      "success": "0ce799",
+      "danger": "d04500",
+      "love": "ff19df"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
